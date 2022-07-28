@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.h1font-size{
+    font-size: 4rem;
+}
+.edu-button{
+    background-color: #289BDE;
+    color: #fff;
+}
+.ptext-color{
+    color: #289BDE;
+}
+.readyTojoinbtn{
+    background-color:#fff ;
+    color: #289BDE;
+}

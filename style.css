@@ -10,6 +10,16 @@ body{
 .h1font-size{
     font-size: 4rem;
 }
+.register-button{
+    border:1px solid #289BDE;
+    color: #289BDE;
+    transition: border 0.3s ease;
+}
+.register-button:hover{
+    border:2px solid #289BDE;
+    color: #289BDE;
+    transform: scale(1, 1);
+}
 .edu-button{
     background-color: #289BDE;
     color: #fff;
